@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="proba:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/proba_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="proba/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="proba:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/proba_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="proba/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="proba/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
